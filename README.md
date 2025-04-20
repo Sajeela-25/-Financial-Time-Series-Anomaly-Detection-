@@ -22,15 +22,14 @@ This project focuses on identifying anomalies in financial time-series data usin
 • Jupyter Notebook for experimentation<br>
 
 **Project Structure**<br>
-``financial-anomaly-detection/
-│
-├── data/
-├── notebooks/
-├── models/
-├── utils/
-├── results/
-├── requirements.txt
-└── main.py``
+financial-anomaly-detection/ <br>
+├── data/ <br>
+├── notebooks/ <br>
+├── models/ <br>
+├── utils/ <br>
+├── results/ <br>
+├── requirements.txt <br>
+|── main.py
 
 **How to Run**<br>
 1. Clone the repository:<br>
