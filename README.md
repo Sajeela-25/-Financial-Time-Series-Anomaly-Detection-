@@ -55,5 +55,7 @@ cd financial-anomaly-detection``
 • Deployment of detection system as an API or web interface<br>
 • Enhanced handling of multivariate financial indicators
 
-**Credit**<br>
+**License**<br>
+This project is open-source and for educational purposes.
+
 
